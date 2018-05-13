@@ -1,0 +1,11 @@
+"antd-mobile": "^2.1.8", ant-design 蚂蚁支付宝的UI组件库，在mobile端
+"axios": "^0.18.0",    前端网络库
+"eslint": "^4.19.1",   语法检查
+"promise": "8.0.1",    promise组件
+"querystring": "^0.2.0", 参数合并
+"react": "^16.3.1",      不解释了
+"react-native": "~0.55.2",  不解释了
+"react-redux": "^4.4.5",    管理react数据流的库
+"redux": "^3.5.2",          同上。
+"redux-logger": "^2.6.1",   日志库，
+"redux-saga": "^0.16.0"     中间件lib
