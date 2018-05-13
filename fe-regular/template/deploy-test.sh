@@ -1,0 +1,1 @@
+rsync -avz ./dist/* cache@192.168.2.34:/data/www/h5/courseshare/
